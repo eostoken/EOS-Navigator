@@ -3,7 +3,7 @@ title:  "EOS导航 (EOS Navigator)"
 ---
 
 
-欢迎提交更多EOS相关链接：[https://github.com/TP-Lab/EOS-Navigator](https://github.com/eostoken/EOS-Navigator)
+欢迎提交更多EOS相关链接：[https://github.com/eostoken/EOS-Navigator](https://github.com/eostoken/EOS-Navigator)
 
 
 ## EOS浏览器 (EOS Browsers)
@@ -15,15 +15,15 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS钱包 (EOS Wallet)
 
-[TokenPocket](https://www.mytokenpocket.vip/)（推荐）&emsp;&emsp;&emsp;[Scatter](https://get-scatter.com/)（网页钱包）&emsp;&emsp;&emsp;[imToken 2.0](https://token.im/)&emsp;&emsp;&emsp;[Halo Wallet](https://halowallet.io/#/)&emsp;&emsp;&emsp;[火星钱包](https://www.xeenho.com/)
-
-[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)
+[eostoken](http://eostoken.im/)(开源，推荐)&emsp;&emsp;&emsp;[Scatter](https://get-scatter.com/)（网页钱包）&emsp;&emsp;&emsp;[imToken 2.0](https://token.im/)&emsp;&emsp;&emsp;[TokenPocket](https://www.mytokenpocket.vip/)&emsp;&emsp;&emsp;[Halo Wallet](https://halowallet.io/#/)&emsp;&emsp;&emsp;[火星钱包](https://www.xeenho.com/)
+[Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)&emsp;&emsp;&emsp;[Pemelo](https://meet.one/pomelo)
+&emsp;&emsp;&emsp;[Bepal](https://bepal.pro/Download)
 
 
 ## EOS内存价格 (EOS RAM Price)
 
-[TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)&emsp;&emsp;&emsp;[FeeXplorer](https://eos.feexplorer.io/)&emsp;&emsp;&emsp;[South ex](http://southex.com/)
-
+[TokenPocket RAM Price](https://dapp.mytokenpocket.vip/ram/index.html)&emsp;&emsp;&emsp;[FeeXplorer](https://eos.feexplorer.io/)&emsp;&emsp;&emsp;[South ex](http://southex.com/)&emsp;&emsp;&emsp;[buyeosram.io](https://buyeosram.io/)
+&emsp;&emsp;&emsp;[feexplorer.io](https://eos.feexplorer.io/)&emsp;&emsp;&emsp;[marketstackd.io](https://www.marketstackd.io/)&emsp;&emsp;&emsp;[持量大户](https://eosmonitor.io/ram)
 
 ## EOS账号创建 (EOS Account)
 
