@@ -27,7 +27,7 @@ title:  "EOS导航 (EOS Navigator)"
 
 ## EOS账号创建 (EOS Account)
 
-[TokenPocket](https://account.mytokenpocket.vip/#/) （支付宝）&emsp;&emsp;&emsp;[EOS Account Creator](https://eos-account-creator.com/)&emsp;&emsp;&emsp;[signupeoseos](http://signupeoseos.com/) （EOS智能合约）
+[eostoken](https://www.eostoken.im) &emsp;&emsp;&emsp;[TokenPocket](https://account.mytokenpocket.vip/#/) &emsp;&emsp;&emsp;[EOS Account Creator](https://eos-account-creator.com/)&emsp;&emsp;&emsp;[signupeoseos](http://signupeoseos.com/) （EOS智能合约）
 
 
 ## EOS空投信息平台 (EOS Drop)
